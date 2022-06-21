@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Практика_4\4_3\4_3\bin\Debug\4_3.exe.config
+C:\Users\user\Desktop\Практика_4\4_3\4_3\bin\Debug\4_3.exe
+C:\Users\user\Desktop\Практика_4\4_3\4_3\bin\Debug\4_3.pdb
+C:\Users\user\Desktop\Практика_4\4_3\4_3\obj\Debug\4_3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Практика_4\4_3\4_3\obj\Debug\_4_3.Form1.resources
+C:\Users\user\Desktop\Практика_4\4_3\4_3\obj\Debug\_4_3.Properties.Resources.resources
+C:\Users\user\Desktop\Практика_4\4_3\4_3\obj\Debug\4_3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Практика_4\4_3\4_3\obj\Debug\4_3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практика_4\4_3\4_3\obj\Debug\4_3.exe
+C:\Users\user\Desktop\Практика_4\4_3\4_3\obj\Debug\4_3.pdb
