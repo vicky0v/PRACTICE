@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Практика_5\5_1\bin\Debug\net5.0\5_1.exe
+C:\Users\user\Desktop\Практика_5\5_1\bin\Debug\net5.0\5_1.deps.json
+C:\Users\user\Desktop\Практика_5\5_1\bin\Debug\net5.0\5_1.runtimeconfig.json
+C:\Users\user\Desktop\Практика_5\5_1\bin\Debug\net5.0\5_1.runtimeconfig.dev.json
+C:\Users\user\Desktop\Практика_5\5_1\bin\Debug\net5.0\5_1.dll
+C:\Users\user\Desktop\Практика_5\5_1\bin\Debug\net5.0\ref\5_1.dll
+C:\Users\user\Desktop\Практика_5\5_1\bin\Debug\net5.0\5_1.pdb
+C:\Users\user\Desktop\Практика_5\5_1\obj\Debug\net5.0\5_1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Практика_5\5_1\obj\Debug\net5.0\5_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Практика_5\5_1\obj\Debug\net5.0\5_1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Практика_5\5_1\obj\Debug\net5.0\5_1.AssemblyInfo.cs
+C:\Users\user\Desktop\Практика_5\5_1\obj\Debug\net5.0\5_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практика_5\5_1\obj\Debug\net5.0\5_1.dll
+C:\Users\user\Desktop\Практика_5\5_1\obj\Debug\net5.0\ref\5_1.dll
+C:\Users\user\Desktop\Практика_5\5_1\obj\Debug\net5.0\5_1.pdb
+C:\Users\user\Desktop\Практика_5\5_1\obj\Debug\net5.0\5_1.genruntimeconfig.cache
