@@ -1,0 +1,7 @@
+C:\Users\truha\Desktop\Практика_5\5_2\5_2\bin\Debug\5_2.exe.config
+C:\Users\truha\Desktop\Практика_5\5_2\5_2\bin\Debug\5_2.exe
+C:\Users\truha\Desktop\Практика_5\5_2\5_2\bin\Debug\5_2.pdb
+C:\Users\truha\Desktop\Практика_5\5_2\5_2\obj\Debug\5_2.csproj.AssemblyReference.cache
+C:\Users\truha\Desktop\Практика_5\5_2\5_2\obj\Debug\5_2.csproj.CoreCompileInputs.cache
+C:\Users\truha\Desktop\Практика_5\5_2\5_2\obj\Debug\5_2.exe
+C:\Users\truha\Desktop\Практика_5\5_2\5_2\obj\Debug\5_2.pdb
