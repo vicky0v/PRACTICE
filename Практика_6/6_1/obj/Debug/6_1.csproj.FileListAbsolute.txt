@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Практика_6\6_1\bin\Debug\6_1.exe.config
+C:\Users\user\Desktop\Практика_6\6_1\bin\Debug\6_1.exe
+C:\Users\user\Desktop\Практика_6\6_1\bin\Debug\6_1.pdb
+C:\Users\user\Desktop\Практика_6\6_1\obj\Debug\6_1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Практика_6\6_1\obj\Debug\6_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практика_6\6_1\obj\Debug\6_1.exe
+C:\Users\user\Desktop\Практика_6\6_1\obj\Debug\6_1.pdb
